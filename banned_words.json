@@ -2,11 +2,13 @@
 	["chucha","verga", "mierda", "maldición", "carajo"]: ["rayos", "demonios", "caracoles", "recorcholis", "rayos y centellas", "damn", "qué barbaridad"],
 	["puta", "ramera", "perra", "zorra"]: ["cortesana", "dama de compañia", "profesional del placer", "mujer de buena vida", "mujer de vida alegra"]
 	["cabrón", "culero", "malparido", "maldito", "desgraciado", "infeliz"]: ["bastardo", "Jon Snow sin valentia", "desdichado", "abominable", "condenado", "detestable", "malhadado", "miserable","desdichado", "desaventurado", "infame"],
-	["bruto", "idiota", "bobo", "pendejo", "estupido", "ignorante", "burro", "imbecil", "boludo"]: ["barbaro", "troglodita", "sin dos dedos de frente", "cabeza hueca", "cabeza de globo", "cabeza de chorlito", "obtuso", "tontuelo", "moron", "donkey"],
-	["porqueria", "asqueroso", "repugnante"]: ["desagradable", "causa rechazo", "radioactivo", "repulsivo", "detestable", "abominable", "horrendo", "vil", "inmundo"],
+	["bruto", "idiota", "bobo", "pendejo", "estupido", "ignorante", "burro", "imbécil", "boludo"]: ["barbaro", "troglodita", "sin dos dedos de frente", "cabeza hueca", "cabeza de globo", "cabeza de chorlito", "obtuso", "tontuelo", "moron", "donkey"],
+	["porqueria", "asqueroso", "repugnante", "podrido"]: ["desagradable", "causa rechazo", "radioactivo", "repulsivo", "detestable", "abominable", "horrendo", "vil", "inmundo", "mal estado", "putrefacto"],
 	["sucio", "mugroso"] : ["impulcro", "desaliñado", "soez", "desaseado", "insalubre"],
 	["culo", "tetas"]: ["culete", "gluteo", "pompis", "pecho"]
-	["jodido"]: ["complicado", "intrincado", "obtuso", "peliagudo", "picante", "arruinado", "arrinconados", "we're so done", "en la punta del coñan", "estamos al horno", "al borde del colapso", "esquiva"]
-	["que te jodan"]
-	["joder"]
+	["jodido"]: ["complicado", "intrincado", "obtuso", "peliagudo", "picante", "arruinado", "arrinconados", "we're so done", "en la punta del coñan", "estamos al horno", "al borde del colapso", "esquiva", "compleja", "problematico", "polémico", "controversial", "crítico", "adverso", "desfavorable", "delicado"],
+	["que te jodan", "que te den"]: ["que te revienten", "basta"],
+	["joder", "fastidiar"]: ["no ser impertinente", "obstaculizar", "perturbar", "atormentar", "irritar"]
+	["callate", "cerra el orto", "cerra la boca"]: ["contén tu voz"],
+	["gay"]: ["culoncito", "culon"]
 }
